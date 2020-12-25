@@ -1,0 +1,30 @@
+%CFG is given below
+%Comment begins with a %
+%This has been taken from the slides
+S->SX|SSb|XS|a
+X->Xb|Sa|b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

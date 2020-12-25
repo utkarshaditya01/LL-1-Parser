@@ -1,0 +1,6 @@
+
+
+S->XSa|Yc
+X->aY|YY
+Y->bSa|cX|#
+

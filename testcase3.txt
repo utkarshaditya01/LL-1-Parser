@@ -1,0 +1,34 @@
+%CFG is given below
+%Comment begins with a %
+S->E
+E->E+T|T
+T->TxF|F 
+F->b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

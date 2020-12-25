@@ -1,0 +1,9 @@
+%CFG is given below
+%Comment begins with a %
+S->XSa|Yc
+X->aY|YY
+Y->bSa|cX|#
+
+
+
+

@@ -1,0 +1,8 @@
+S->E
+E->TZ
+T->FY
+F->b
+Z->+TZ
+Z->#
+Y->xFY
+Y->#

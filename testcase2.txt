@@ -1,0 +1,15 @@
+%CFG is given below
+%Comment begins with a %
+S->E
+E->E+E|ExE|a
+
+
+
+
+
+
+
+
+
+
+
