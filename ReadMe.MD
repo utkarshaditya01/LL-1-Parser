@@ -1,5 +1,6 @@
 # LL(1) Parse Table Generator 
-
+Code written in Lex.        
+For a given CFG      
 **Tasks**
 
 1. Remove Left Recursion
