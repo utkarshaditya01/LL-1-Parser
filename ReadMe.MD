@@ -29,6 +29,10 @@
 4. For task 1 our code also supports removal of INDIRECT Left Recursion,
       you can verify with indirect_testcase.txt
 
+## Output
+
+![](output.PNG) 
+
 #### Note
 
 1. For the input.txt, separate using ->
